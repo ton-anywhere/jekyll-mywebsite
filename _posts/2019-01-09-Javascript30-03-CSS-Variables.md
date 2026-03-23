@@ -7,7 +7,7 @@ ref: javascript30-challenge-03
 ---
 Goal: To make the javascript change dynamically the page CSS with the inputs passed through the browser.
 
- See <a href="https://aponce911.github.io/javascript30/03-CSS-variables/index.html" target="_blank" class="external-link">here</a> how is my version of the exercise.
+ See <a href="https://ton-anywhere.github.io/javascript30/03-CSS-variables/index.html" target="_blank" class="external-link">here</a> how is my version of the exercise.
 
 
 Difference between Wes Bos solution and mine:
@@ -92,5 +92,5 @@ Difference between Wes Bos solution and mine:
 
 
 Github repositories links:
-<a href="https://github.com/APonce911/javascript30/tree/master/03-CSS-variables" target="_blank" class="external-link"> My code</a>,<a href="https://github.com/wesbos/JavaScript30/blob/master/03%20-%20CSS%20Variables/index-FINISHED.html"  target="_blank" class="external-link"> Wes</a>.
+<a href="https://github.com/ton-anywhere/javascript30/tree/master/03-CSS-variables" target="_blank" class="external-link"> My code</a>,<a href="https://github.com/wesbos/JavaScript30/blob/master/03%20-%20CSS%20Variables/index-FINISHED.html"  target="_blank" class="external-link"> Wes</a>.
 
